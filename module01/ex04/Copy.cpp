@@ -23,15 +23,23 @@ void Copy::replace(std::string s1, std::string s2) {
 	std::ifstream input_fs(this->file1);
 	if (input_fs.is_open()) {
 		std::string content;
-		if (std::geline(input_fs, content, '\0')) {
-			std::ofstrem output_fs(this->file2);
-			size_t pos = content.find(toFind);
+		if (std::getline(input_fs, content, '\0')) {
+			std::ofstream output_fs(this->file2);
+			size_t pos = content.find(s1);
 			while (pos != std::string::npos) {
-				content.erase(pos, toFind.length());
-				content.insert(pos, replace);
-				pos = content.
+				printf("pos = %lu\n",pos);
+				content.erase(pos, s1.length());
+				content.insert(pos, s2);
+				pos = content.find(s1);
 			}
+			output_fs << content;
+			output_fs.close();
 		}
-		
+		else
+			std::cerr << "Empty file found." << std::endl;
+		input_fs.close();
+	} else {
+		std::cerr << "Unable to open the file." << std::endl;
+        exit(EXIT_FAILURE);
 	}
 }

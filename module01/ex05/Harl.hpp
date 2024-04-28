@@ -22,7 +22,11 @@ private:
 	void error();
 	void warning();
 public:
-	void complain(std::string level);
+	Harl();
+	~Harl();
+	void complain(std::string str);
+	void complain2(std::string str);
 };
 
+typedef void (Harl::*t_func) ( void );
 #endif
