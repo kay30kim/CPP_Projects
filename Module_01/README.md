@@ -1,32 +1,23 @@
-# CPP-Module-01 | 1337 Khouribga
-
-*BraiiiiiiinnnzzzZ 🧠*
-
-<p align="center">
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_01">&#11013;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules">&#127968;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_02">&#10145;</a>
-</p>
+# CPP-Module-01 
 
 -------------------------------------------------------------------------
 
 ## Table of content
 
-- [New and delete](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#new-and-delete)
-- [Stack vs heap memory](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#stack-vs-heap-memory)
-- [Pointers](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#pointers)
-- [References](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#references)
-- [Lifetime](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#lifetime)
-- [Scope](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#scope)
-- [Constant class instance in another class](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#constant-class-instance-in-another-class)
-- [Destructor called without a constructor](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#destructor-called-without-a-constructor)
-- [Streams](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#streams)
-- [Data transfer modes](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#data-transfer-modes)
-- [Text mode operations](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#text-mode-operations)
-- [Advantages of using streams](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#advantages-of-using-streams)
-- [File streams](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#file-streams)
-- [Creating file objects](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#creating-file-objects)
-- [Resources](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module01#resources)
+- New and delete
+- Stack vs heap memory
+- Pointers
+- References
+- Lifetime
+- Scope
+- Constant class instance in another class
+- Destructor called without a constructor
+- Streams
+- Data transfer modes
+- Text mode operations
+- Advantages of using streams
+- File streams
+- Creating file objects
 
 
 ### New and delete

@@ -1,24 +1,14 @@
-# CPP-Module-03 | 1337 Khouribga
-
-Aaaaand... OPEN! 👵
-
-<p align="center">
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_02">&#11013;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules">&#127968;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_04">&#10145;</a>
-</p>
+# CPP-Module-03
 
 ---------------------------------------------
 
 ## Table of content
-- [inheritance introduction](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#inheritance-introduction)
-- [inheritance in classes](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#inheritance-in-classes)
-- ["is a" test and "has a" test](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#is-a-test-and-has-a-test)
-- [access specifier (base class & class members)](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#access-specifier-base-class--class-members)
-- [multiple inheritance](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#multiple-inheritance)
-- [The diamond problem](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#the-diamond-problem)
-- [Resources](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module03#resources)
-
+- inheritance introduction
+- inheritance in classes
+- "is a" test and "has a" test
+- access specifier (base class & class members)
+- multiple inheritance
+- The diamond problem
 
 ### inheritance introduction
 

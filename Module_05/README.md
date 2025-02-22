@@ -1,22 +1,13 @@
-# CPP-Module-05 | 1337 Khouribga
-
-Mommy, when I grow up, I want to be a bureaucrat! 👨‍💼
-
-<p align="center">
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_04">&#11013;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules">&#127968;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_06">&#10145;</a>
-</p>
+# CPP-Module-05 
 
 --------------------------
 
 ## Table of contents
-- [Introduction to templates](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module07#introduction-to-templates)
-- [From C - parametric macros](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module07#from-c---parametric-macros)
-- [Templates](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module07#templates)
-- [Default types](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module07#default-types)
-- [Template specialization](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module07#template-specialization)
-- [Resources](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module07#resources)
+- Introduction to templates
+- From C - parametric macros
+- Templates
+- Default types
+- Template specialization
 
 ### introduction to templates
 

@@ -1,25 +1,16 @@
-# CPP-Module-08 | 1337 Khouribga
-
-Easy find 🔍
-
-<p align="center">
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_07">&#11013;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules">&#127968;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_09">&#10145;</a>
-</p>
+# CPP-Module-08
 
 ---------------------------------------
 ## Table of contents
-- [Intro to STL containers](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#intro-to-stl-containers)
-- [STL containers overview](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#stl-containers-overview)
-- [std::vector](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#stdvector)
-- [std::list](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#stdlist)
-- [std::map](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#stdmap)
-- [std::stack](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#stdstack)
-- [Iterators](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#iterators)
-- [Iterator adapters](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#iterator-adapters)
-- [Algorithms](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#algorithms)
-- [Resources](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module08#resources)
+- Intro to STL containers
+- STL containers overview
+- std::vector
+- std::list
+- std::map
+- std::stack
+- Iterators
+- Iterator adapters
+- Algorithms
 
 ### Intro to STL containers
 

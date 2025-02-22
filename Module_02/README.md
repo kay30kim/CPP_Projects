@@ -1,23 +1,13 @@
-# CPP-Module-02 | 1337 Khouribga
-
-My First Orthodox Class 📜
-
-<p align="center">
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_01">&#11013;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules">&#127968;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_03">&#10145;</a>
-</p>
+# CPP-Module-02 
 
 ----------------------------------------------------------
 
-
 ## Table of content
-- [Ad-hoc polymorphism / function overload](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module02#ad-hoc-polymorphism-function-overloading)
-- [Operators overload](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module02#operator-overload)
-- [Canonical classes](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module02#canonical-form)
-- [Copy constructor](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module02#copy-constructor)
-- [Fixed point numbers](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module02#fixed-point-numbers)
-- [Resources](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module02#resources)
+- Ad-hoc polymorphism / function overload
+- Operators overload
+- Canonical classes
+- Copy constructor
+- Fixed point numbers
 
 ### Ad-hoc polymorphism / function overload
 - Function overloading is a C++ principle, which allows you to **define many functions having the same name, but accepting different parameters**

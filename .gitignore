@@ -3,3 +3,6 @@
 
 # Ignore all JSON files
 *.json
+
+*.o
+*.objFiles

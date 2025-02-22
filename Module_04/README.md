@@ -1,31 +1,20 @@
-# CPP-Module-04 | 1337 Khouribga
-
-I don't want to set the world on fire 🔥
-
-<p align="center">
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_03">&#11013;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules">&#127968;</a>
-  <a href="https://github.com/achrafelkhnissi/CPP_Modules/tree/master/Module_05">&#10145;</a>
-</p>
+# CPP-Module-04 
 
 -----------------------------------------------------
 
 ## Table of contents
-- [sub-typing polymorphism](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#sub-typing-polymorphism)
-- [abstract classes](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#abstract-classes)
-- [operator overload](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#operator-overloading)
-- [polymorphism](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#polymorphism-%E5%A4%9A%E6%80%81)
-- [virtual functions](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#virtual-functions-virtual-keyword)
-- [interface & pure virtual functions](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#interface--pure-virtual-functions-virtual-keyword---0)
-- [shallow vs deep Copies](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#shallow-vs-deep-copies)
-- [copy constructor](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#copy-constructor)
-- [coplien form](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module04#coplien-form)
-- [virtual member function](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module04#virtual-member-function)
-- [virtual destructor](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module04#virtual-destructor)
-- [label virtual](https://github.com/achrafelkhnissi/CPP-Modules/wiki/Module04#label-virtual)
-- [resources](https://github.com/achrafelkhnissi/CPP-Modules/wiki/module04#resources)
-
-
+- sub-typing polymorphism
+- abstract classes
+- operator overload
+- polymorphism
+- virtual functions
+- interface & pure virtual functions
+- shallow vs deep Copies
+- copy constructor
+- coplien form
+- virtual member function
+- virtual destructor
+- label virtual
 
 ### Sub-typing polymorphism
 

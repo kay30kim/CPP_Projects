@@ -1,4 +1,3 @@
-
 NAME		= claptrap
 	
 CC			= c++
