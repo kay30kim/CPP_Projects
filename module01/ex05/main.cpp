@@ -23,7 +23,7 @@ int main() {
 		std::cin >> str;
 		if (str.compare("EXIT") == 0)
 			break;
-		harl.complain(str);
+		harl.complain3(str);
 		std::cout << "\n";
 	}
 

@@ -26,6 +26,7 @@ public:
 	~Harl();
 	void complain(std::string str);
 	void complain2(std::string str);
+	void complain3(std::string str);
 };
 
 typedef void (Harl::*t_func) ( void );

@@ -20,11 +20,19 @@ Copy::Copy(std::string filename) {
 Copy::~Copy(){}
 
 void Copy::replace(std::string s1, std::string s2) {
-	std::ifstream input_fs(this->file1);
+	if (s1.empty()) {
+		std::cerr << "String to replace (s1) cannot be empty." << std::endl;
+		return;
+	}
+	if (s1 == s2) {
+		std::cerr << "s1 and s2 are the same. No replacement needed." << std::endl;
+		return;
+	}
+	std::ifstream input_fs(this->file1.c_str());
 	if (input_fs.is_open()) {
 		std::string content;
 		if (std::getline(input_fs, content, '\0')) {
-			std::ofstream output_fs(this->file2);
+			std::ofstream output_fs(this->file2.c_str());
 			size_t pos = content.find(s1);
 			while (pos != std::string::npos) {
 				printf("pos = %lu\n",pos);

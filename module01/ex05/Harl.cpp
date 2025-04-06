@@ -63,7 +63,24 @@ void Harl::complain2(std::string str) {
 		std::cerr << "Please type among DEBUG, INFO, WARNING and ERROR\n";
 		return ;
 	}
-	 if (idx >= 0 && idx < 4) {
+	if (idx >= 0 && idx < 4) {
 		(this->*funcs[idx])();
 	} 
+}
+
+void Harl::complain(std::string level) {
+	void (Harl::*functions[4])() = {
+		&Harl::debug,
+		&Harl::info,
+		&Harl::warning,
+		&Harl::error
+	};
+	std::string levels[4] = {"DEBUG", "INFO", "WARNING", "ERROR"};
+
+	for (int i = 0; i < 4; ++i) {
+		if (levels[i] == level) {
+			(this->*functions[i])();
+			return;
+		}
+	}
 }

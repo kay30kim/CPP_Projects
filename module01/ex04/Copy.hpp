@@ -15,6 +15,7 @@
 
 #include <iostream>
 #include <fstream>
+#include <cstdlib>
 
 class Copy 
 {
