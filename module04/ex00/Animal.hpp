@@ -17,4 +17,11 @@ public:
 	std::string		getType(void) const;
 };
 
+class Animal
+{
+private:
+	std:string type;
+public:
+	virtual void	makeSound(void) const;
+}
 #endif
