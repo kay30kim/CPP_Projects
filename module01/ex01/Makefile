@@ -32,6 +32,7 @@ $(OBJDIR)/%.o : %.cpp $(HEADER)
 
 clean:
 	rm -rf $(OBJDIR)
+	rm -rf $(NAME)
 
 fclean: clean
 	rm -rf $(NAME)
