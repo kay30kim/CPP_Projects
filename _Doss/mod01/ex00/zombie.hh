@@ -5,11 +5,12 @@ public:
     Zombie(std::string name);
     virtual ~Zombie();
 
-    Zombie* newZombie(std::string name);
-    void randomChump(std::string name);
-
+    void announce();
 private:
     static std::string GROWL; //BraiiiiiiinnnzzzZ...
 
     std::string name;
 };
+
+Zombie* newZombie(std::string name);
+void randomChump(std::string name);
