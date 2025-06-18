@@ -12,17 +12,22 @@ int main(int argc, char* argv[]) {
     }
 
     auto file_name  = argv[1];
-    auto origin     = argv[2];
-    auto replace    = argv[3];
+    //auto origin     = argv[2];
+    //auto replace    = argv[3];
 
     auto file_handler = std::ifstream();
     file_handler.exceptions( std::ifstream::badbit );
 
     try {
         file_handler.open(file_name);
+        auto line = std::string();
+
+        while(std::getline(file_handler, line)) {
+            std::cout<<line<<std::endl;
+        }
     }
     catch(const std::ifstream::failure& e) {
-
+        std::cout<<e.what()<<std::endl;
     }
 
     file_handler.close();
